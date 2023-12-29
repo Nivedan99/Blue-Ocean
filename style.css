@@ -3,7 +3,8 @@
   box-sizing: border-box;
   font-family: cursive;
 }
-body{
+
+body {
   background: skyblue;
   display: flex;
   flex-direction: column;
@@ -50,6 +51,7 @@ img {
   height: 95vh;
   border-radius: 20px;
 }
+
 @media screen and (max-width: 800px) {
   nav ul {
     display: none;
